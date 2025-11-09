@@ -117,7 +117,7 @@
       },
       "rules": {
         "max_error": 0.005,
-        "min_clearance": 0.5,
+        "min_clearance": 0.0,
         "min_connection": 0.0,
         "min_copper_edge_clearance": 0.5,
         "min_groove_width": 0.0,
@@ -451,7 +451,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "astra-icp.kicad_pro",
+    "filename": "pwr-test.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -611,7 +611,7 @@
   },
   "sheets": [
     [
-      "a743d9ca-4482-48f4-bb57-c11bb2b2c7ae",
+      "ec1e6fc7-0d61-4991-8898-a6eabc6125f6",
       "Root"
     ]
   ],
